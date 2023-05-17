@@ -12,6 +12,9 @@ a:hover {
   color: #00d1b2;
 }
 
+.column {
+	max-width: 40%;
+}
 section{
 	padding-top: 3rem;
 	padding-bottom: 3rem;
